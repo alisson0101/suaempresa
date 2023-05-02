@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Bem vindosd</h1>
+    <h1>Bem vindos</h1>
 </body>
 <!DOCTYPE html>
 <html lang="pt-br">
